@@ -1,15 +1,14 @@
 {
-  "employees": [
-    {
+  "employees": [{
       "id": 1,
-      "firstName": "Brahim",
-      "lastName": "Moussi",
+      "firstName": "elmahdi",
+      "lastName": "Souilmi",
       "phone": "+2126 07 27 89 13",
-      "cin": "HH6554",
+      "cin": "HH9554",
       "image": "Image",
-      "passport": "6565545435",
+      "passport": "YR65545435",
       "address": "Rue 9 Hay...",
-      "city": "ifas",
+      "city": "safi",
       "country": "Morocco"
     },
     {
@@ -29,8 +28,7 @@
       "id": 3
     }
   ],
-  "employers": [
-    {
+  "employers": [{
       "email": "email@company.com",
       "employer": "emp1",
       "phone": "0607279713",
@@ -46,7 +44,7 @@
       "id": 2
     },
     {
-      "email": "email@email.com",
+      "email": "email@gmail.com",
       "employer": "Ad eu omnis qui non ",
       "phone": "098878776767-",
       "cnss": "987876766",
